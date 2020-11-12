@@ -2,7 +2,7 @@
 
 File(s): [lookup.pcap](lookup.pcap)
 
-## Description:
+## Question:
 
 What is the Internet Protocol address of the host at 00:50:56:ed:c2:e2 in the attached packet capture file?
 

@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Data that could potentially be used to identify a particular person.
 

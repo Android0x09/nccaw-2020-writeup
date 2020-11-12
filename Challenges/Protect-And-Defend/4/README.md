@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 What is the term for apps or programs that are surreptitiously installed on computing devices with the intent to record activity or otherwise spy on the user?
 

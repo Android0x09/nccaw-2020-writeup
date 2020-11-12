@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This malicious software will use your computer to secretly mine cryptocurrency for the attacker.
 

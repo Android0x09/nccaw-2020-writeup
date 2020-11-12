@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Knowledge of Application Security Risks (e.g. Open Web Application Security Project Top 10 list)
 

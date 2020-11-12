@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Dug deleted an important file! Find it before it's too late.
 

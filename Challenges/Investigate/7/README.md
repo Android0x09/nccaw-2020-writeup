@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 In Windows operating systems, a Security Identifier (or SID) can be used to correlate the activities of an individual across systems, even if the person's name is changes. Can you find Jane Smith's SID in the linked Windows image?
 

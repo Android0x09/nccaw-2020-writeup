@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Knowledge of command-line tools (e.g., mkdir, mv, ls, passwd, grep).
 

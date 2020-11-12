@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This aspect of the CIA triad is about ensuring that information is not altered accidentally or by entities unauthorized to make alterations.
 

@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This term is used to describe the proliferation of small, connected devices found in many homes and businesses
 

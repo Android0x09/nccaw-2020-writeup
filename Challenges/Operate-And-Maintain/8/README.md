@@ -2,7 +2,7 @@
 
 File(s): [packets.pcap](packets.pcap)
 
-## Description:
+## Question:
 
 This looks like a brute-force attack on an FTP server. Can you find the password for the successful login?
 

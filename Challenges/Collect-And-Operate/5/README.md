@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Cyber operators sometimes have to decode data that they have collected as part of their analysis. The message below was encoded using a scheme widely used in computer programming to represent binary data in ASCII string format using a radix-64 representation. Can you decode the message?
 

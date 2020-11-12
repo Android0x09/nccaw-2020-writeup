@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This aspect of the CIA Triad refers to protecting information from disclosure to unauthorized parties.
 

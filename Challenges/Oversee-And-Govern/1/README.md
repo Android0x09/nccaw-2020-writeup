@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 What is the term for converting plaintext to ciphertext?
 

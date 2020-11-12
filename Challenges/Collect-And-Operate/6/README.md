@@ -2,7 +2,7 @@
 
 File(s): [fileList](fileList)
 
-## Description:
+## Question:
 
 Your pentest team has just infiltrated a client's corporate network and gained access to several hundred sensitive files located on an internal file server.
 

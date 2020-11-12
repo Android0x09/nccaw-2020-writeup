@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 The process of decrypting a message requires three components. Two of the components are the encrypted message and a decryption algorithm. What is the third component?
 

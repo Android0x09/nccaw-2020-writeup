@@ -1,10 +1,8 @@
 # How Many? (5 points)
 
-File(s): none
+## Question:
 
-## Description:
-
-How many work roles are identified in the NICE Cybersecurity Workforce Framework? Be careful only three attempts allowed.
+How many work roles are identified in the NICE Cybersecurity Workforce Framework?
 
 ### Answer:
 

@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 A network security device that works to detect and prevent identified threats.
 

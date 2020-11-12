@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This term describes one-way functions used in password storage and file integrity checking
 

@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 The process of identifying your risks and vulnerabilities and applying administrative actions and comprehensive solutions to make sure your organization is adequately protected.
 

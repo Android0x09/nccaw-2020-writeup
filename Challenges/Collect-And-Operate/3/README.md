@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Code for Intelligence Analysts
 

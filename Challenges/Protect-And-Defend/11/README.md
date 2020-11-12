@@ -5,7 +5,7 @@ File(s):
 [password.lst](password.lst)
 [shadow](shadow)
 
-## Description:
+## Question:
 
 Simply concatenate the passwords from the shadow file and submit as the key. Easy!
 

@@ -2,7 +2,7 @@
 
 File(s): [gotta_make_you_understand.mp3](gotta_make_you_understand.mp3)
 
-## Description:
+## Question:
 
 Agents in the field collected this odd audio file. Can you find the embedded message?
 

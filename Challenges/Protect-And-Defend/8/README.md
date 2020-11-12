@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This malicious software will encrypt the files on your harddrive and only provide a decryption key when you pay hackers a hefty fee, usually in cryptocurrency.
 

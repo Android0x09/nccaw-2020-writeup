@@ -7,8 +7,8 @@ Are you a student who would like to learn how to get involved in capture-the-fla
 ## Performance
 
 Rank: 1st Place
-Score: 916 / 984    (93% of total)
-Completion: 60 / 62 (97% of total)
+Score: 984 / 984
+Completion: 62 / 62
 
 ![Leaderboard](leaderboard.png)
 

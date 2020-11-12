@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This term used to describe the interdependent network of information technology infrastructures that includes the Internet, telecommunications networks, computer systems, and embedded processors was coined by author William Gibson in his novel, Neuromancer.
 

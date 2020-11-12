@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Skill in using security event correlation tools.
 

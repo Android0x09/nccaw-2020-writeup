@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 What is the term for a large collection of computers that are compromised by malicious software and controlled across a network?
 

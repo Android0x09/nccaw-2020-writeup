@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 According to http://www.cyberseek.org/pathway.html which entry level position lines up with the NICE cybersecurity framework category of Investigate?
 

@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Skill to graphically depict decision support materials containing intelligence and partner capability estimates.
 

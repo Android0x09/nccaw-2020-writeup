@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Develops and maintains cybersecurity plans, strategy, and policy to support and align with organizational cybersecurity initiatives and regulatory compliance
 

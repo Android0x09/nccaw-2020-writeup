@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 This principle of the cybersecurity CIA triad has to do with ensuring that information can be used when and where needed.
 

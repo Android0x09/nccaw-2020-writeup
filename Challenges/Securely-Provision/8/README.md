@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Which network defensive strategy relies on multiple layers of defense to provide enhanced protection in case one layer is penetrated?
 

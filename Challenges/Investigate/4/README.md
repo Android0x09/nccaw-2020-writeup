@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Zoe Krumm suffered an injury in college that ended up shifting her focus from rowing to this career, which eventually helped her find her niche: building cases against software counterfeiters and pirates.
 

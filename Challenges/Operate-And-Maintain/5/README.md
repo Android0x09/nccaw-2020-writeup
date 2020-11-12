@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 A technique that takes advantage of a specific vulnerability to achieve some effect on an asset.
 

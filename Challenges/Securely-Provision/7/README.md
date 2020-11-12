@@ -2,7 +2,7 @@
 
 File(s): none
 
-## Description:
+## Question:
 
 Which type of network security device is used to limit traffic between networks and information systems based on network addresses and port numbers?
 
