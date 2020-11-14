@@ -10,11 +10,11 @@ K0001
 
 ### Solution:
 
-The NICE Security Framework for Workforce Skills can be found at the following website:
+The NICE Security Framework for Workforce Knowledge can be found at the following website:
 
 https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/knowledge
 
-We can enter the questions into the description textbox and select Apply so that the following result is displayed:
+We can enter the question into the description textbox and select Apply so that the following result is displayed:
 
 ![nice-screenshot.png](nice-screenshot.png)
 

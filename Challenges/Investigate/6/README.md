@@ -1,6 +1,6 @@
 # Steganography (40 points)
 
-File(s): [hello-world.pdf](hello-world.pdf)
+File(s): [hello-world.pdf](hello-world.pdf) [4 KB]
 
 ## Question:
 
@@ -13,6 +13,12 @@ HeresSomeHiddenData-CanYouFindIt?
 ### Solution:
 
 Used ```strings```
+
+We can use the Linux command called ```strings``` to help us peer into the readable text of the .pdf file:
+
+![flag.png](flag.png)
+
+```strings``` will output the readable strings in the file while piping to ```tail -n 5``` will make sure that only the last 5 lines of that output is printed. In this way, we've found our flag.
 
 | [Previous Challenge](/Challenges/Investigate/5) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/7) |
 | :------- | :-----: | ------: |

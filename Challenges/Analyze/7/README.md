@@ -1,7 +1,5 @@
 # White Hats (15 points)
 
-File(s): none
-
 ## Question:
 
 An evaluation methodology where "good guys" try to circumvent a network's security features to gain unauthorized access to information systems.

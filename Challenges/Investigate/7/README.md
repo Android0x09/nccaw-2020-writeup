@@ -1,6 +1,6 @@
 # Security Identifier (60 points)
 
-File(s): none
+File(s): [WindowsVista_0401.vmem](https://vacr.io/XTtEl) [524,288 KB]
 
 ## Question:
 
@@ -16,21 +16,23 @@ S-1-5-21-3357474304-2915131210-3987339850-1000
 
 ### Solution:
 
-Ran the following command:
+First, we can download the Windows image from the link provided. Depending on your Internet connection, this may take a little while to complete.
+
+Next, we can open up a Linux terminal using either [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) or a [Linux VM](https://www.linuxvmimages.com/) and run the following command:
 
 ```
 grep -ai "profileimagepath" WindowsVista_0401.vmem | grep -ai "s-1-"
 ```
 
-Among the output, found the SID.
+Among the output, we can find a user's SID.
 
-We can confirm that this is her SID by running the following command:
+We can confirm that this SID belongs to the user we're interested in by running the following command:
 
 ```
 grep -ai "S-1-5-21-3357474304-2915131210-3987339850-1000" WindowsVista_0401.vmem
 ```
 
-and finding the following line in the resulting output:
+We can then look through the resulting output and find the following line which confirms that the SID belongs to Jane Smith:
 
 ```
 Registry\User\S-1-5-21-3357474304-2915131210-3987339850-1000\Device\HarddiskVolume1\Users\Jane Smith\NTUSER.DAT

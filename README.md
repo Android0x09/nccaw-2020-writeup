@@ -1,14 +1,17 @@
 # National Cybersecurity Career Awareness Week (NCCAW) 2020 Competition
 
-Are you a student who would like to learn how to get involved in capture-the-flag competitions? Or a teacher who wants to help your students get started? In this hands-on workshop we will learn how to approach different types of CTF challenges and the tools you can use to solve them. We will also learn how to find competitions to participate in, and even how to host your own! The CTF will include categories such as cryptography, networking, trivia, cybersecurity careers, web applications, reconnaissance, and more!
+Are you a student who would like to learn how to get involved in capture-the-flag competitions? This CTF will include categories such as cryptography, networking, trivia, cybersecurity careers, web applications, reconnaissance, and more!
 
 ![NCCAW Logo](NCCAW-2020-banner-ctf.png)
 
 ## Performance
 
-Rank: 1st Place
-Score: 984 / 984
-Completion: 62 / 62
+Rank: 1st Place (out of 120 competitors)\
+Score: 984 / 984 (100%)\
+Completion: 62 / 62 (100%)\
+Hints: 0
+
+![scoregraph](scoregraph.png)
 
 ![Leaderboard](leaderboard.png)
 

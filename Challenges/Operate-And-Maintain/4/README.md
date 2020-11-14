@@ -1,6 +1,6 @@
 # Ethernet to IP (10 points)
 
-File(s): [lookup.pcap](lookup.pcap)
+File(s): [lookup.pcap](lookup.pcap) [1 KB]
 
 ## Question:
 
@@ -16,7 +16,15 @@ Free hint 2: Use Wireshark for this. It is available for download at [https://ww
 
 ### Solution:
 
+We can open the packet capture in Wireshark to see that it contains two packets:
 
+![pcap.png](pcap.png)
+
+To find the IP address corresponding to our given MAC address of 00:50:56:ed:c2:e2, we can do a simple search of the packet details by pressing CTRL-F and entering our search term:
+
+![packet.png](packet.png)
+
+This indicates that our flag is the IP address 192.168.28.2.
 
 | [Previous Challenge](/Challenges/Operate-And-Maintain/3) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/5) |
 | :------- | :-----: | ------: |
