@@ -2,7 +2,7 @@
 
 Are you a student who would like to learn how to get involved in capture-the-flag competitions? This CTF will include categories such as cryptography, networking, trivia, cybersecurity careers, web applications, reconnaissance, and more!
 
-![images/NCCAW Logo](NCCAW-2020-banner-ctf.png)
+![NCCAW Logo](images/NCCAW-2020-banner-ctf.png)
 
 ## Performance
 
@@ -11,9 +11,9 @@ Score: 984 / 984 (100%)\
 Completion: 62 / 62 (100%)\
 Hints: 0
 
-![image/scoregraph](scoregraph.png)
+![scoregraph](images/scoregraph.png)
 
-![images/Leaderboard](leaderboard.png)
+![Leaderboard](images/leaderboard.png)
 
 ## Modules
 
