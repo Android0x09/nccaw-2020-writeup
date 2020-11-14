@@ -68,5 +68,5 @@ We will find that the highest possible sum value of files that can be transferre
 
 ![result.png](result.png)
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/5/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/7/README.md) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/5/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/7/README.md#top) |
 | :------- | :-----: | ------: |

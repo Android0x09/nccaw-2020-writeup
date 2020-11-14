@@ -35,5 +35,5 @@ If you're like me and hesitate at the thought of trying to discern between lower
 
 [![flag.png](flag.png)](https://smallseotools.com/image-to-text-converter/)
 
-| [Previous Challenge](/Challenges/Analyze/9/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/11/README.md) |
+| [Previous Challenge](/Challenges/Analyze/9/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/11/README.md#top) |
 | :------- | :-----: | ------: |

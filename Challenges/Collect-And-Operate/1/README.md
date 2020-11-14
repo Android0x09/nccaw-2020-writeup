@@ -21,5 +21,5 @@ We can select Apply without entering any search terms so that all of the Work Ro
  Because one of the search results is the label above the Work Role ID search box, we actually have 52 Work Roles.
 
 
-| [Previous Challenge](/Challenges/Analyze/11/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/2/README.md) |
+| [Previous Challenge](/Challenges/Analyze/11/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/2/README.md#top) |
 | :------- | :-----: | ------: |

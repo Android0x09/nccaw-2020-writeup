@@ -14,5 +14,5 @@ We can check out the [NICCS Cybersecurity Glossary](https://niccs.cisa.gov/about
 
 [![glossary.png](glossary.png)](https://niccs.cisa.gov/about-niccs/cybersecurity-glossary)
 
-| [Previous Challenge](/Challenges/Analyze/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/8/README.md) |
+| [Previous Challenge](/Challenges/Analyze/6/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/8/README.md#top) |
 | :------- | :-----: | ------: |

@@ -27,5 +27,5 @@ The following is the result:
 
 It looks like we've found the NIST Headquarters! Its what3words address is "sulk.mild.locked".
 
-| [Previous Challenge](/Challenges/Analyze/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/6/README.md) |
+| [Previous Challenge](/Challenges/Analyze/4/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/6/README.md#top) |
 | :------- | :-----: | ------: |

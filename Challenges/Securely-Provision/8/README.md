@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "defense in depth".
 
-| [Previous Challenge](/Challenges/Securely-Provision/7/README.md) | [Return to Challenges](/Challenges/../../../#modules) | Next Challenge |
+| [Previous Challenge](/Challenges/Securely-Provision/7/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | Next Challenge |
 | :------- | :-----: | ------: |

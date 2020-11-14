@@ -20,5 +20,5 @@ We can use our browser's search feature using CRTL-F and the search term "langua
 
 The solution to the challenge is the name of the Specialty Area, which is Language Analysis.
 
-| [Previous Challenge](/Challenges/Analyze/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/4/README.md) |
+| [Previous Challenge](/Challenges/Analyze/2/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/4/README.md#top) |
 | :------- | :-----: | ------: |

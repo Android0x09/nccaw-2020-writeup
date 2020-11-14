@@ -20,5 +20,5 @@ Executing this search will give us the following result:
 
 This means that our solution is 33-3021.06.
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/4/README.md) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/2/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/4/README.md#top) |
 | :------- | :-----: | ------: |

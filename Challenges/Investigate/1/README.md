@@ -18,5 +18,5 @@ We can click on each Entry-Level bubble to see more detailed information about t
 
 ![investigator.png](investigator.png)
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/7/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/2/README.md) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/7/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/2/README.md#top) |
 | :------- | :-----: | ------: |

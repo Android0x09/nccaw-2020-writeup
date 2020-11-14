@@ -20,5 +20,5 @@ It reveals that our flag is GoodJobDecodingThisMessage.
 
 I would recommend bookmarking this page, as it has many Recipes which are very useful for solving CTF challenges like this one.
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/6/README.md) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/4/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/6/README.md#top) |
 | :------- | :-----: | ------: |

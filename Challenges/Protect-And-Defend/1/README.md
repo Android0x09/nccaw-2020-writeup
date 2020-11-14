@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "electronic discovery".
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/9/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/2/README.md) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/9/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/2/README.md#top) |
 | :------- | :-----: | ------: |

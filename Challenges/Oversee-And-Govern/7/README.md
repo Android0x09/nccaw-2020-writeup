@@ -14,5 +14,5 @@ Looking at the [CyberSeek Career Pathway](https://www.cyberseek.org/pathway.html
 
 [![pathway.png](pathway.png)](https://www.cyberseek.org/pathway.html)
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/8/README.md) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/6/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/8/README.md#top) |
 | :------- | :-----: | ------: |

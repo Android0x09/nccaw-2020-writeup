@@ -20,5 +20,5 @@ This matches up with what we're looking for, so we can click on the link to be t
 
 So, our answer is Cyber Policy and Strategy Planner.
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/4/README.md) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/2/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/4/README.md#top) |
 | :------- | :-----: | ------: |

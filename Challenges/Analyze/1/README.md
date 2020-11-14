@@ -20,5 +20,5 @@ We can enter the question into the description textbox and select Apply so that 
 
 The solution to the challenge is the Knowledge ID, which is K0001.
 
-| Previous Challenge | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/2/README.md) |
+| Previous Challenge | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/2/README.md#top) |
 | :------- | :-----: | ------: |

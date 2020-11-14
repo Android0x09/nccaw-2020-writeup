@@ -40,5 +40,5 @@ The numbers correspond to several uppercase letters, which when decoded give us 
 WYSIWYG
 ```
 
-| [Previous Challenge](/Challenges/Analyze/10/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/1/README.md) |
+| [Previous Challenge](/Challenges/Analyze/10/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/1/README.md#top) |
 | :------- | :-----: | ------: |

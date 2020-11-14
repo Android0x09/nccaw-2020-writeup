@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "botnet".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/6/README.md) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/4/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/6/README.md#top) |
 | :------- | :-----: | ------: |

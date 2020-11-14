@@ -20,5 +20,5 @@ We can enter the question into the description textbox and select Apply so that 
 
 The solution to the challenge is the Skill ID, which is S0173.
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/4/README.md) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/2/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/4/README.md#top) |
 | :------- | :-----: | ------: |

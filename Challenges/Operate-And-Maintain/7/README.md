@@ -22,5 +22,5 @@ We can use the CyberChef site to perform this operation for us, using "SOLVEME" 
 
 We see that our flag is "cANyOUsOLVEmE?".
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/8/README.md) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/6/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/8/README.md#top) |
 | :------- | :-----: | ------: |

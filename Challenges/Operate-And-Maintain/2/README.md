@@ -20,5 +20,5 @@ We can enter the questions into the description textbox and select Apply so that
 
 The solution to the challenge is the Knowledge ID, which is K0129.
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/1/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/3/README.md) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/1/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/3/README.md#top) |
 | :------- | :-----: | ------: |

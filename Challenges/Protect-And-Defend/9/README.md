@@ -22,5 +22,5 @@ We can decode our ciphertext by using this [Atbash Online Cipher Tool](https://w
 
 So, our flag is ATBASHISSIMPLEBUTEASYTOBREAK.
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/8/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/10/README.md) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/8/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/10/README.md#top) |
 | :------- | :-----: | ------: |

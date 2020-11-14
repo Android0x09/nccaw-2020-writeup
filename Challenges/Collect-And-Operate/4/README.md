@@ -20,5 +20,5 @@ All of the Work Roles and their descriptions are listed here, so we can do a sim
 
 So, our answer is Cyber Operations Planner.
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/3/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/5/README.md) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/3/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/5/README.md#top) |
 | :------- | :-----: | ------: |

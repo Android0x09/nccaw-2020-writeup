@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "chief information security officer".
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/8/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/1/README.md) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/8/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/1/README.md#top) |
 | :------- | :-----: | ------: |

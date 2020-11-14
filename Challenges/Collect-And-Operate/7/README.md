@@ -32,5 +32,5 @@ You should quickly notice an oddity in the spectrogram at around the same part o
 
 ![flag.png](flag.png)
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/1/README.md) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/6/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/1/README.md#top) |
 | :------- | :-----: | ------: |

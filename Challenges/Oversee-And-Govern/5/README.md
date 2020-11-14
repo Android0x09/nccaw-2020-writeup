@@ -14,5 +14,5 @@ Looking at [CyberSeek](https://www.cyberseek.org/heatmap.html), the state with t
 
 [![map.png](map.png)](https://www.cyberseek.org/heatmap.html)
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/6/README.md) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/4/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/6/README.md#top) |
 | :------- | :-----: | ------: |

@@ -26,5 +26,5 @@ To find the IP address corresponding to our given MAC address of 00:50:56:ed:c2:
 
 I've circled our source MAC address and the corresponding source IP address in the same packet. This indicates that our flag is the IP address 192.168.28.2.
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/3/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/5/README.md) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/3/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/5/README.md#top) |
 | :------- | :-----: | ------: |
