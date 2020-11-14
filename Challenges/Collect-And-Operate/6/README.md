@@ -10,11 +10,11 @@ The files contain corporate secrets and have various values to the organization.
 
 Given a list of sensitive files, their values to the organization and the file sizes, determine the most valuable files that can be copied off the network by the end of the day. Your answer must be the maximum total sum of the file values (an integer value) that you are able to copy from the server.
 
-### Answer:
+## Answer:
 
 477
 
-### Solution:
+## Solution:
 
 I wrote the following Python program to help me in solving this challenge:
 
@@ -58,15 +58,15 @@ if __name__ == '__main__':
     getPowerSet(indexes, powerSet, len(indexes))
 ```
 
-In this program, I decided to approach this problem by enumerating the power set of the set of files to transfer so that I could evaluate each possible valid combination of files for the ones which would net us the highest possible value. If you'd like to read more about power sets and their uses, visit this [website](https://en.wikipedia.org/wiki/Power_set).
+In this program, I decided to approach this problem by enumerating the power set of the set of files to transfer so that I could evaluate each possible valid combination of files for the ones which would net us the highest possible value. If you'd like to read more about power sets and their uses, visit [this website](https://en.wikipedia.org/wiki/Power_set).
 
 After running this program, we're presented with a very long list of file values, file sizes, and the indexes of the files involved in each possible transfer. We can take this output and put in into Excel, formatting it as a table, and sorting it based on the value:
 
 ![sorted-list.png](sorted-list.png)
 
-We will find that the highest possible sum value of files that can be transferred within the file size limit is:
+We will find that the highest possible sum value of files that can be transferred within the file size limit is as shown below:
 
 ![result.png](result.png)
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/5) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/7) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/5/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/7/README.md) |
 | :------- | :-----: | ------: |

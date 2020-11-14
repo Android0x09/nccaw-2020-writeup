@@ -7,11 +7,11 @@ What 3 words?
 100 Bureau Dr.
 Gaithersburg, MD 20899
 
-### Answer:
+## Answer:
 
 sulk.mild.locked
 
-### Solution:
+## Solution:
 
 The key to this challenge is the phrase "What 3 words?" Performing the following Google search, we can discover what this phrase refers to:
 
@@ -27,5 +27,5 @@ The following is the result:
 
 It looks like we've found the NIST Headquarters! Its what3words address is "sulk.mild.locked".
 
-| [Previous Challenge](/Challenges/Analyze/4) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/6) |
+| [Previous Challenge](/Challenges/Analyze/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/6/README.md) |
 | :------- | :-----: | ------: |

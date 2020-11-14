@@ -4,13 +4,13 @@
 
 Ability to conduct forensic analyses in and for both Windows and Unix/Linux environments.
 
-### Answer:
+## Answer:
 
 A0043
 
-### Solution:
+## Solution:
 
-The NICE Security Framework for Workforce Abilities can be found at the following website:
+The NICE Cybersecurity Framework for Workforce Abilities can be found at the following website:
 
 https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/abilities
 
@@ -20,5 +20,5 @@ We can enter the question into the description textbox and select Apply so that 
 
 The solution to the challenge is the Ability ID, which is A0043.
 
-| [Previous Challenge](/Challenges/Investigate/1) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/3) |
+| [Previous Challenge](/Challenges/Investigate/1/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/3/README.md) |
 | :------- | :-----: | ------: |

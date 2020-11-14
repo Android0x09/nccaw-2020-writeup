@@ -6,11 +6,11 @@ File(s): [Top10.jpg](Top10.jpg) [1,881 KB]
 
 More steganography? You might need some more advanced tools for this one.
 
-### Answer:
+## Answer:
 
 ZGInaXRhbF9mb3JlbnNpY19hbmFseXNO
 
-### Solution:
+## Solution:
 
 Our hint for this question is the name of the challenge: Binwalk It Off. Our "advanced tool" will be the [binwalk tool](https://tools.kali.org/forensics/binwalk). You can install this tool on an Ubuntu distribution by running the following commands:
 
@@ -31,11 +31,9 @@ We've found the flag! We can go ahead and view the flagisinhere.png file to view
 
 ![flagisinhere.png](flagisinhere.png)
 
-If you're like me and are too lazy to type out the flag character by character, you can visit the following [website](https://smallseotools.com/image-to-text-converter/) to have it extract the text for us:
+If you're like me and hesitate at the thought of trying to discern between lowercase l's and uppercase I's and between uppercase O's and 0's, or of typing all of this out character by character, you can visit the following [website](https://smallseotools.com/image-to-text-converter/) to have it extract the text for us:
 
 [![flag.png](flag.png)](https://smallseotools.com/image-to-text-converter/)
 
-This also saves us the headache of having to distinguish between lowercase l's and uppercase I's and between uppercase O's and 0's.
-
-| [Previous Challenge](/Challenges/Analyze/9) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/11) |
+| [Previous Challenge](/Challenges/Analyze/9/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/11/README.md) |
 | :------- | :-----: | ------: |

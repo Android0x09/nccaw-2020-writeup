@@ -4,11 +4,11 @@
 
 This malicious software will encrypt the files on your harddrive and only provide a decryption key when you pay hackers a hefty fee, usually in cryptocurrency.
 
-### Answer:
+## Answer:
 
 Ransomware
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "ransomware".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/7) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/9) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/7/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/9/README.md) |
 | :------- | :-----: | ------: |

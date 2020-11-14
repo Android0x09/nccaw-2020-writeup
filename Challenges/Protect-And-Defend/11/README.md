@@ -9,13 +9,13 @@ File(s):
 
 Simply concatenate the passwords from the shadow file and submit as the key. Easy!
 
-### Answer:
+## Answer:
 
 grannypinkieminutecornered
 
-### Solution:
+## Solution:
 
-No surprise here, the solution to this challenge won't be so easy as the question claims. In order to solve this problem, we can write a program like the Python code below, to solve this for us:
+No surprise here, the solution to this challenge won't be so easy as the challenge claims. In order to solve this problem, we can write a program like the Python code below, to solve this for us:
 
 ```py
 import subprocess
@@ -72,5 +72,5 @@ $OysrFFtv$Ph8ZfZkztxRSVhjOYbLXkja641n8rJbaZgoddSAiuSiDjwekbz7HrRztp.o/AeG0UPvaqT
 
 This lists out each salt, hash, and their corresponding cracked password. Putting each of these passwords together, our flag is grannypinkieminutecornered.
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/10) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/1) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/10/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/1/README.md) |
 | :------- | :-----: | ------: |

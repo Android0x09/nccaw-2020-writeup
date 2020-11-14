@@ -4,11 +4,11 @@
 
 Which network defensive strategy relies on multiple layers of defense to provide enhanced protection in case one layer is penetrated?
 
-### Answer:
+## Answer:
 
 Defense in depth
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "defense in depth".
 
-| [Previous Challenge](/Challenges/Securely-Provision/7) | [Return to Challenges](/Challenges/../../../#modules) | Next Challenge |
+| [Previous Challenge](/Challenges/Securely-Provision/7/README.md) | [Return to Challenges](/Challenges/../../../#modules) | Next Challenge |
 | :------- | :-----: | ------: |

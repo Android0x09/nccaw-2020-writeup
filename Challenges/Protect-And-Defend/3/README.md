@@ -4,13 +4,13 @@
 
 Skill in using security event correlation tools.
 
-### Answer:
+## Answer:
 
 S0173
 
-### Solution:
+## Solution:
 
-The NICE Security Framework for Workforce Skills can be found at the following website:
+The NICE Cybersecurity Framework for Workforce Skills can be found at the following website:
 
 https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/skills
 
@@ -20,5 +20,5 @@ We can enter the question into the description textbox and select Apply so that 
 
 The solution to the challenge is the Skill ID, which is S0173.
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/2) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/4) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/4/README.md) |
 | :------- | :-----: | ------: |

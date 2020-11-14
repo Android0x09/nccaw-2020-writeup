@@ -6,11 +6,11 @@ File(s): [simplehttp.pcap](simplehttp.pcap) [19 KB]
 
 Learn some things about the wonders of insecure protocols. The answer is what is inside the curly braces.
 
-### Answer:
+## Answer:
 
 dontUseHTTPeverSRSLY
 
-### Solution:
+## Solution:
 
 A .pcap file is a packet capture and can be opened and analyzed with the [Wireshark](https://www.wireshark.org/download.html) software. Opening the simplehttp.pcap file with Wireshark, we will see the following:
 
@@ -24,9 +24,9 @@ Looks like we've found an HTTP packet revealing a user's password, which just so
 
 ![packet.png](packet.png)
 
-Because the "%7B" and "%7D" are URL encoded "{" and "}" characters, respectively, our dontUseHTTPeverSRSLY. You can decode URL encoded characters at [this website](https://www.url-encode-decode.com/):
+Because the "%7B" and "%7D" are URL encoded "{" and "}" characters, respectively, our flag is actually dontUseHTTPeverSRSLY. You can decode URL-encoded characters at [this website](https://www.url-encode-decode.com/):
 
 [![url-decode.png](url-decode.png)](https://www.url-encode-decode.com/)
 
-| [Previous Challenge](/Challenges/Analyze/7) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/9) |
+| [Previous Challenge](/Challenges/Analyze/7/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/9/README.md) |
 | :------- | :-----: | ------: |

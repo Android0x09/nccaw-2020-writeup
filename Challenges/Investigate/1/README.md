@@ -2,13 +2,13 @@
 
 ## Question:
 
-According to http://www.cyberseek.org/pathway.html, which entry level position lines up with the NICE cybersecurity framework category of Investigate?
+According to [CyberSeek](http://www.cyberseek.org/pathway.html), which entry level position lines up with the NICE cybersecurity framework category of Investigate?
 
-### Answer:
+## Answer:
 
 Cyber Crime Analyst / Investigator
 
-### Solution:
+## Solution:
 
 We can visit the website to see the following career pathways:
 
@@ -18,5 +18,5 @@ We can click on each Entry-Level bubble to see more detailed information about t
 
 ![investigator.png](investigator.png)
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/7) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/2) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/7/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/2/README.md) |
 | :------- | :-----: | ------: |

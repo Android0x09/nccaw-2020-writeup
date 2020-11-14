@@ -4,13 +4,13 @@
 
 Skill to graphically depict decision support materials containing intelligence and partner capability estimates.
 
-### Answer:
+## Answer:
 
 S0333
 
-### Solution:
+## Solution:
 
-The NICE Security Framework for Workforce Skills can be found at the following website:
+The NICE Cybersecurity Framework for Workforce Skills can be found at the following website:
 
 https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/skills
 
@@ -20,5 +20,5 @@ We can enter the question into the description textbox and select Apply so that 
 
 The solution to the challenge is the Skill ID, which is S0333.
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/1) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/3) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/1/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/3/README.md) |
 | :------- | :-----: | ------: |

@@ -4,11 +4,11 @@
 
 This aspect of the CIA Triad refers to protecting information from disclosure to unauthorized parties.
 
-### Answer:
+## Answer:
 
 Confidentiality
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the possible answers are Confidentiality, Integrity, and Availability. Looking back at the challenge question, "protecting information from disclosure to unauthorized parties" most closely relates to Confidentiality.
 
-| [Previous Challenge](/Challenges/Securely-Provision/5) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/7) |
+| [Previous Challenge](/Challenges/Securely-Provision/5/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/7/README.md) |
 | :------- | :-----: | ------: |

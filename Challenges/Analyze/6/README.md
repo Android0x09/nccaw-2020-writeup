@@ -6,17 +6,17 @@ Find the flag on Sekrit Skwerl's Under Construction page.
 
 [Sekrit Skwerl](http://sekritskwerl.com/)
 
-### Answer:
+## Answer:
 
 sometimesFlagsAreInHTMLComments
 
-### Solution:
+## Solution:
 
 Visiting the website, we will be greeted by the following page:
 
 [![website-main-screenshot.png](website-main-screenshot.png)](http://sekritskwerl.com/)
 
-Well, that explains the website's moniker of "Sekrit Skwerl". We can select the About Us link to see the following page:
+Well, that explains the website's moniker of "Sekrit Skwerl". We can select the [About Us](http://sekritskwerl.com/about_us.html) link to see the following page:
 
 [![website-construction-screenshot.png](website-construction-screenshot.png)](http://sekritskwerl.com/about_us.html)
 
@@ -62,5 +62,5 @@ We can use the following [Morse Decoder website](https://morsedecoder.com/) to r
 
 So, it seems that some squirrels have gone and made a Greatest Hits Volume 1. I wonder if there's a Volume 2...
 
-| [Previous Challenge](/Challenges/Analyze/5) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/7) |
+| [Previous Challenge](/Challenges/Analyze/5/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/7/README.md) |
 | :------- | :-----: | ------: |

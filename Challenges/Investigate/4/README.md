@@ -6,11 +6,11 @@ Zoe Krumm suffered an injury in college that ended up shifting her focus from ro
 
 https://roadtripnation.com/explore/interests/technology
 
-### Answer:
+## Answer:
 
 Law
 
-### Solution:
+## Solution:
 
 We can visit the website and find Zoe Krumm's entry among some of the profile at the top of the page:
 
@@ -22,5 +22,5 @@ Selecting her profile and scrolling down to her list of milestones, we can see t
 
 Therefore, our answer to the challenge is Law.
 
-| [Previous Challenge](/Challenges/Investigate/3) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/5) |
+| [Previous Challenge](/Challenges/Investigate/3/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/5/README.md) |
 | :------- | :-----: | ------: |

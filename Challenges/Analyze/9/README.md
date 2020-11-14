@@ -6,11 +6,11 @@ File(s): [filepackets.pcap](filepackets.pcap) [10 KB]
 
 Sometime you have to extract files from network packet captures
 
-### Answer:
+## Answer:
 
 H3r3s_Y0ur_Fl@g
 
-### Solution:
+## Solution:
 
 A .pcap file is a packet capture and can be opened and analyzed with the [Wireshark](https://www.wireshark.org/download.html) software. Opening the filepackets.pcap file with Wireshark, we will see the following:
 
@@ -33,5 +33,5 @@ We can open this file in Paint to reveal our flag:
 ![flag.png](flag.png)
 
 
-| [Previous Challenge](/Challenges/Analyze/8) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/10) |
+| [Previous Challenge](/Challenges/Analyze/8/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/10/README.md) |
 | :------- | :-----: | ------: |

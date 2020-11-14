@@ -4,11 +4,11 @@
 
 The process of decrypting a message requires three components. Two of the components are the encrypted message and a decryption algorithm. What is the third component?
 
-### Answer:
+## Answer:
 
 key
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is a "key".
 
-| [Previous Challenge](/Challenges/Investigate/8) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/2) |
+| [Previous Challenge](/Challenges/Investigate/8/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/2/README.md) |
 | :------- | :-----: | ------: |

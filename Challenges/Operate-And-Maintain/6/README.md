@@ -4,11 +4,11 @@
 
 This term describes one-way functions used in password storage and file integrity checking
 
-### Answer:
+## Answer:
 
 Hash
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -18,5 +18,5 @@ Based on our search, the solution to the challenge is "hash".
 
 (As an aside, the flag makes sense given the very silly challenge title "Corned Beef".)
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/5) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/7) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/5/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/7/README.md) |
 | :------- | :-----: | ------: |

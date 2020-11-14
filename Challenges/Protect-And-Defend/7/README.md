@@ -4,11 +4,11 @@
 
 What are malicious software tools with administrator-level access privileges installed on an information systems and designed to hide the presence of the tools, maintain the access privileges, and conceal the activities conducted by the tools?
 
-### Answer:
+## Answer:
 
 Rootkit
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "rootkit".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/6) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/8) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/8/README.md) |
 | :------- | :-----: | ------: |

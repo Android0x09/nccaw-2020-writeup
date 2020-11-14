@@ -4,11 +4,11 @@
 
 Analyzes digital evidence and investigates computer security incidents to derive useful information in support of system/network vulnerability mitigation.
 
-### Answer:
+## Answer:
 
 Cyber Defense Forensics Analyst
 
-### Solution:
+## Solution:
 
 We can browse through the NICE Cybersecurity Workforce Framework of Work Roles at the following website:
 
@@ -20,5 +20,5 @@ All of the Work Roles and their descriptions are listed here, so we can do a sim
 
 So, our answer is Cyber Defense Forensics Analyst.
 
-| [Previous Challenge](/Challenges/Investigate/2) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/4) |
+| [Previous Challenge](/Challenges/Investigate/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/4/README.md) |
 | :------- | :-----: | ------: |

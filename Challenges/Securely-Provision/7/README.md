@@ -4,11 +4,11 @@
 
 Which type of network security device is used to limit traffic between networks and information systems based on network addresses and port numbers?
 
-### Answer:
+## Answer:
 
 Firewall
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "firewall".
 
-| [Previous Challenge](/Challenges/Securely-Provision/6) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/8) |
+| [Previous Challenge](/Challenges/Securely-Provision/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/8/README.md) |
 | :------- | :-----: | ------: |

@@ -4,11 +4,11 @@
 
 Examines data from multiple disparate sources with the goal of providing security and privacy insight. Designs and implements custom algorithms, workflow processes and layouts for complex, enterprise-scale data sets used for modeling, data mining, and research purposes.
 
-### Answer:
+## Answer:
 
 Data Analyst
 
-### Solution:
+## Solution:
 
 We can browse through the NICE Cybersecurity Workforce Framework of Work Roles at the following website:
 
@@ -20,5 +20,5 @@ All of the Work Roles and their descriptions are listed here, so we can do a sim
 
 So, our answer is Data Analyst.
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/2) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/4) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/4/README.md) |
 | :------- | :-----: | ------: |

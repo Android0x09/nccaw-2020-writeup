@@ -4,11 +4,11 @@
 
 This cybersecurity related role is the senior-level executive within an organization responsible for establishing and maintaining the enterprise vision, strategy, and program to ensure information assets and technologies are adequately protected.
 
-### Answer:
+## Answer:
 
 chief information security officer
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "chief information security officer".
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/8) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/1) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/8/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/1/README.md) |
 | :------- | :-----: | ------: |

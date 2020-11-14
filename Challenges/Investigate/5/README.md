@@ -4,11 +4,11 @@
 
 This is the process of recovering and investigating material found in digital devices, often in relation to computer crime.
 
-### Answer:
+## Answer:
 
 Digital forensics
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "Digital forensics".
 
-| [Previous Challenge](/Challenges/Investigate/4) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/6) |
+| [Previous Challenge](/Challenges/Investigate/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/6/README.md) |
 | :------- | :-----: | ------: |

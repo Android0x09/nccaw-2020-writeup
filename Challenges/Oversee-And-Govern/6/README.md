@@ -4,11 +4,11 @@
 
 This term is used to describe the proliferation of small, connected devices found in many homes and businesses
 
-### Answer:
+## Answer:
 
 IoT
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "IoT", which stands for Internet of Things.
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/5) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/7) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/5/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/7/README.md) |
 | :------- | :-----: | ------: |

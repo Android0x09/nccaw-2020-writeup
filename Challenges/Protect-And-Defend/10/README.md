@@ -4,11 +4,11 @@
 
 This malicious software will use your computer to secretly mine cryptocurrency for the attacker.
 
-### Answer:
+## Answer:
 
 Cryptominer
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "cryptominer".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/9) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/11) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/9/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/11/README.md) |
 | :------- | :-----: | ------: |

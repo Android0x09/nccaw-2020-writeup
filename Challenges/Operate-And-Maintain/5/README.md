@@ -4,11 +4,11 @@
 
 A technique that takes advantage of a specific vulnerability to achieve some effect on an asset.
 
-### Answer:
+## Answer:
 
 Exploit
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "exploit".
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/4) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/6) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/6/README.md) |
 | :------- | :-----: | ------: |

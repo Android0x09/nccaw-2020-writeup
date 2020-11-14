@@ -4,11 +4,11 @@
 
 What is the term for apps or programs that are surreptitiously installed on computing devices with the intent to record activity or otherwise spy on the user?
 
-### Answer:
+## Answer:
 
 Spyware
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "spyware".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/3) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/)5 |
+| [Previous Challenge](/Challenges/Protect-And-Defend/3/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/5/README.md) |
 | :------- | :-----: | ------: |

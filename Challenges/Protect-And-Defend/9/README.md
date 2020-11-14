@@ -6,11 +6,11 @@ Ciphtertext: ZGYZHSRHHRNKOVYFGVZHBGLYIVZP
 
 Plaintext: ?
 
-### Answer:
+## Answer:
 
 ATBASHISSIMPLEBUTEASYTOBREAK
 
-### Solution:
+## Solution:
 
 The key to this challenge is the title: hsabtA. Reversed, this is clearly Atbash. Doing a quick Google search on it, we can see that it is a cipher:
 
@@ -22,5 +22,5 @@ We can decode our ciphertext by using this [Atbash Online Cipher Tool](https://w
 
 So, our flag is ATBASHISSIMPLEBUTEASYTOBREAK.
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/8) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/10) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/8/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/10/README.md) |
 | :------- | :-----: | ------: |

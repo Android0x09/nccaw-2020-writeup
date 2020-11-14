@@ -4,17 +4,17 @@ File(s): [WindowsVista_0401.vmem](https://vacr.io/XTtEl) [524,288 KB]
 
 ## Question:
 
-In Windows operating systems, a Security Identifier (or SID) can be used to correlate the activities of an individual across systems, even if the person's name is changes. Can you find Jane Smith's SID in the linked Windows image?
+In Windows operating systems, a Security Identifier (or SID) can be used to correlate the activities of an individual across systems, even if the person's name changes. Can you find Jane Smith's SID in the linked Windows image?
 
-This challenge requires tools for memory forensics. One great tool is https://www.volatilityfoundation.org/
+This challenge requires tools for memory forensics. One great tool is [Volatility](https://www.volatilityfoundation.org/).
 
 [https://vacr.io/XTtEl](https://vacr.io/XTtEl)
 
-### Answer:
+## Answer:
 
 S-1-5-21-3357474304-2915131210-3987339850-1000
 
-### Solution:
+## Solution:
 
 First, we can download the Windows image from the link provided. Depending on your Internet connection, this may take a little while to complete.
 
@@ -26,7 +26,7 @@ grep -ai "profileimagepath" WindowsVista_0401.vmem | grep -ai "s-1-"
 
 Among the output, we can find a user's SID.
 
-We can confirm that this SID belongs to the user we're interested in by running the following command:
+We can confirm that this SID belongs to the user we're interested in by running the following command using the discovered SID as a search term:
 
 ```
 grep -ai "S-1-5-21-3357474304-2915131210-3987339850-1000" WindowsVista_0401.vmem
@@ -38,5 +38,5 @@ We can then look through the resulting output and find the following line which 
 Registry\User\S-1-5-21-3357474304-2915131210-3987339850-1000\Device\HarddiskVolume1\Users\Jane Smith\NTUSER.DAT
 ```
 
-| [Previous Challenge](/Challenges/Investigate/6) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/8) |
+| [Previous Challenge](/Challenges/Investigate/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/8/README.md) |
 | :------- | :-----: | ------: |

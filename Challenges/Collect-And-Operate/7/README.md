@@ -6,11 +6,11 @@ File(s): [gotta_make_you_understand.mp3](gotta_make_you_understand.mp3) [1,058 K
 
 Agents in the field collected this odd audio file. Can you find the embedded message?
 
-### Answer:
+## Answer:
 
 soundsliketeenspirit
 
-### Solution:
+## Solution:
 
 Listening to the sound file, you should notice that around the halfway-point, for about 15 seconds, you can hear strange sounds played alongside the music. These strange sounds indicate that a secret is hidden in that part of the music.
 
@@ -32,5 +32,5 @@ You should quickly notice an oddity in the spectrogram at around the same part o
 
 ![flag.png](flag.png)
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/6 | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/1) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/6/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/1/README.md) |
 | :------- | :-----: | ------: |

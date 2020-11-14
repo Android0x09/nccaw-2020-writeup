@@ -4,11 +4,11 @@
 
 Conducts independent comprehensive assessments of the management, operational, and technical security controls and control enhancements employed within or inherited by an information technology (IT) system to determine the overall effectiveness of the controls (as defined in NIST SP 800-37).
 
-### Answer:
+## Answer:
 
 Security Control Assessor
 
-### Solution:
+## Solution:
 
 We can browse through the NICE Cybersecurity Workforce Framework of Work Roles at the following website:
 
@@ -20,5 +20,5 @@ All of the Work Roles and their descriptions are listed here, so we can do a sim
 
 So, our answer is Security Control Assessor.
 
-| [Previous Challenge](/Challenges/Securely-Provision/1) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/3) |
+| [Previous Challenge](/Challenges/Securely-Provision/1/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/3/README.md) |
 | :------- | :-----: | ------: |

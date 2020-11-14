@@ -6,10 +6,10 @@ Are you a student who would like to learn how to get involved in capture-the-fla
 
 ## Performance
 
-Rank: 1st Place (out of 120 competitors)\
-Score: 984 / 984 (100%)\
-Completion: 62 / 62 (100%)\
-Hints: 0
+**Rank:** 1st Place *(out of 120 competitors)*\
+**Score:** 984 / 984 *(100%)*\
+**Completion:** 62 / 62 *(100%)*\
+**Hints:** 0
 
 ![scoregraph](images/scoregraph.png)
 

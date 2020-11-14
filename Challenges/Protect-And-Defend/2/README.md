@@ -4,11 +4,11 @@
 
 A network security device that works to detect and prevent identified threats.
 
-### Answer:
+## Answer:
 
 IPS
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,9 +16,11 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "IPS", which is short for Intrusion Prevention System.
 
-P.S. Just for fun:
+---
+
+P.S. Just for fun :P
 
 ![meme.png](meme.png)
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/1) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/3) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/1/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/3/README.md) |
 | :------- | :-----: | ------: |

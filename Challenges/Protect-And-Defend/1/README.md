@@ -4,11 +4,11 @@
 
 This process involves searching for electronic data with the intent of using it as evidence in a civil or criminal legal case.
 
-### Answer:
+## Answer:
 
 Electronic discovery
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "electronic discovery".
 
-| [Previous Challenge](/Challenges/Oversee-And-Govern/9) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/2) |
+| [Previous Challenge](/Challenges/Oversee-And-Govern/9/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/2/README.md) |
 | :------- | :-----: | ------: |

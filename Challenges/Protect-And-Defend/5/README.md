@@ -4,11 +4,11 @@
 
 What is the term for a large collection of computers that are compromised by malicious software and controlled across a network?
 
-### Answer:
+## Answer:
 
 Botnet
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "botnet".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/)4 | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/6) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/4/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/6/README.md) |
 | :------- | :-----: | ------: |

@@ -4,11 +4,11 @@
 
 What is the term for converting plaintext to ciphertext?
 
-### Answer:
+## Answer:
 
 Encryption
 
-### Solution:
+## Solution:
 
 We can perform a Google search on the given definition to get the following search result:
 
@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "encryption".
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/8) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/2) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/8/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Oversee-And-Govern/2/README.md) |
 | :------- | :-----: | ------: |

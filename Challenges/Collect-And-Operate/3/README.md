@@ -4,11 +4,11 @@
 
 Code for Intelligence Analysts
 
-### Answer:
+## Answer:
 
 33-3021.06
 
-### Solution:
+## Solution:
 
 We can visit the [One*NET Online website](https://www.onetonline.org/) to do a search for our term:
 
@@ -20,5 +20,5 @@ Executing this search will give us the following result:
 
 This means that our solution is 33-3021.06.
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/2) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/4) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/2/README.md) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/4/README.md) |
 | :------- | :-----: | ------: |
