@@ -28,5 +28,5 @@ Because the "%7B" and "%7D" are URL encoded "{" and "}" characters, respectively
 
 [![url-decode.png](url-decode.png)](https://www.url-encode-decode.com/)
 
-| [Previous Challenge](/Challenges/Analyze/7/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/9/README.md#top) |
+| [Previous Challenge](/Challenges/Analyze/7/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/9/README.md#question) |
 | :------- | :-----: | ------: |

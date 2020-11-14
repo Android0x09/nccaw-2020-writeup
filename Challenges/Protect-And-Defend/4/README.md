@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "spyware".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/3/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/5/README.md#top) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/3/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/5/README.md#question) |
 | :------- | :-----: | ------: |

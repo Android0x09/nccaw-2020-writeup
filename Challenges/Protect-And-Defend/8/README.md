@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "ransomware".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/7/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/9/README.md#top) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/7/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/9/README.md#question) |
 | :------- | :-----: | ------: |

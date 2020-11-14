@@ -72,5 +72,5 @@ $OysrFFtv$Ph8ZfZkztxRSVhjOYbLXkja641n8rJbaZgoddSAiuSiDjwekbz7HrRztp.o/AeG0UPvaqT
 
 This lists out each salt, hash, and their corresponding cracked password. Putting each of these passwords together, our flag is grannypinkieminutecornered.
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/10/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/1/README.md#top) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/10/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/1/README.md#question) |
 | :------- | :-----: | ------: |

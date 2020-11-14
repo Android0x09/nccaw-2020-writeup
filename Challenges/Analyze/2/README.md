@@ -18,5 +18,5 @@ Based on our search, the solution to the challenge is "privilege escalation".
 
 (As an aside, the flag makes sense given the challenge title "Take Me Higher".)
 
-| [Previous Challenge](/Challenges/Analyze/1/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/3/README.md#top) |
+| [Previous Challenge](/Challenges/Analyze/1/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/3/README.md#question) |
 | :------- | :-----: | ------: |

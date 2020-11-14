@@ -38,5 +38,5 @@ We can then look through the resulting output and find the following line which 
 Registry\User\S-1-5-21-3357474304-2915131210-3987339850-1000\Device\HarddiskVolume1\Users\Jane Smith\NTUSER.DAT
 ```
 
-| [Previous Challenge](/Challenges/Investigate/6/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/8/README.md#top) |
+| [Previous Challenge](/Challenges/Investigate/6/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/8/README.md#question) |
 | :------- | :-----: | ------: |

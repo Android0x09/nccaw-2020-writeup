@@ -20,5 +20,5 @@ We can expand the Securely Provision area and then use our browser's search feat
 
 The solution to the challenge is the name of the Specialty Area, which is Systems Architecture.
 
-| [Previous Challenge](/Challenges/Securely-Provision/3/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/5/README.md#top) |
+| [Previous Challenge](/Challenges/Securely-Provision/3/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/5/README.md#question) |
 | :------- | :-----: | ------: |

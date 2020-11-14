@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is "rootkit".
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/6/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/8/README.md#top) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/6/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/8/README.md#question) |
 | :------- | :-----: | ------: |

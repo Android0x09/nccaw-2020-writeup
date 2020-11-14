@@ -22,5 +22,5 @@ Selecting her profile and scrolling down to her list of milestones, we can see t
 
 Therefore, our answer to the challenge is Law.
 
-| [Previous Challenge](/Challenges/Investigate/3/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/5/README.md#top) |
+| [Previous Challenge](/Challenges/Investigate/3/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/5/README.md#question) |
 | :------- | :-----: | ------: |

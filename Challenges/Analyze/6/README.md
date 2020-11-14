@@ -62,5 +62,5 @@ We can use the following [Morse Decoder website](https://morsedecoder.com/) to r
 
 So, it seems that some squirrels have gone and made a Greatest Hits Volume 1. I wonder if there's a Volume 2...
 
-| [Previous Challenge](/Challenges/Analyze/5/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/7/README.md#top) |
+| [Previous Challenge](/Challenges/Analyze/5/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/7/README.md#question) |
 | :------- | :-----: | ------: |

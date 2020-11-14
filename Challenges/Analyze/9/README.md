@@ -33,5 +33,5 @@ We can open this file in Paint to reveal our flag:
 ![flag.png](flag.png)
 
 
-| [Previous Challenge](/Challenges/Analyze/8/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/10/README.md#top) |
+| [Previous Challenge](/Challenges/Analyze/8/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Analyze/10/README.md#question) |
 | :------- | :-----: | ------: |

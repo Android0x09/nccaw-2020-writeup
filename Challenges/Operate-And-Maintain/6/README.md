@@ -18,5 +18,5 @@ Based on our search, the solution to the challenge is "hash".
 
 (As an aside, the flag makes sense given the very silly challenge title "Corned Beef".)
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/5/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/7/README.md#top) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/5/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/7/README.md#question) |
 | :------- | :-----: | ------: |

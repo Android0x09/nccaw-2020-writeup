@@ -22,5 +22,5 @@ P.S. Just for fun :P
 
 ![meme.png](meme.png)
 
-| [Previous Challenge](/Challenges/Protect-And-Defend/1/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/3/README.md#top) |
+| [Previous Challenge](/Challenges/Protect-And-Defend/1/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Protect-And-Defend/3/README.md#question) |
 | :------- | :-----: | ------: |

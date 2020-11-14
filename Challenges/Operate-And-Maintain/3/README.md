@@ -20,5 +20,5 @@ All of the Work Roles and their descriptions are listed here, so we can do a sim
 
 So, our answer is Data Analyst.
 
-| [Previous Challenge](/Challenges/Operate-And-Maintain/2/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/4/README.md#top) |
+| [Previous Challenge](/Challenges/Operate-And-Maintain/2/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/4/README.md#question) |
 | :------- | :-----: | ------: |

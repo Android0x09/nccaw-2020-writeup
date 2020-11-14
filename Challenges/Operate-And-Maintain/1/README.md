@@ -16,5 +16,5 @@ We can perform a Google search on the given definition to get the following sear
 
 Based on our search, the solution to the challenge is a "key".
 
-| [Previous Challenge](/Challenges/Investigate/8/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/2/README.md#top) |
+| [Previous Challenge](/Challenges/Investigate/8/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Operate-And-Maintain/2/README.md#question) |
 | :------- | :-----: | ------: |

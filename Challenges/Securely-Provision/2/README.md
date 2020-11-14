@@ -20,5 +20,5 @@ All of the Work Roles and their descriptions are listed here, so we can do a sim
 
 So, our answer is Security Control Assessor.
 
-| [Previous Challenge](/Challenges/Securely-Provision/1/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/3/README.md#top) |
+| [Previous Challenge](/Challenges/Securely-Provision/1/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Securely-Provision/3/README.md#question) |
 | :------- | :-----: | ------: |

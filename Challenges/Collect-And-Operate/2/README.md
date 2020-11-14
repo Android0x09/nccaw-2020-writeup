@@ -20,5 +20,5 @@ We can enter the question into the description textbox and select Apply so that 
 
 The solution to the challenge is the Skill ID, which is S0333.
 
-| [Previous Challenge](/Challenges/Collect-And-Operate/1/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/3/README.md#top) |
+| [Previous Challenge](/Challenges/Collect-And-Operate/1/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Collect-And-Operate/3/README.md#question) |
 | :------- | :-----: | ------: |

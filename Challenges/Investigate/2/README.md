@@ -20,5 +20,5 @@ We can enter the question into the description textbox and select Apply so that 
 
 The solution to the challenge is the Ability ID, which is A0043.
 
-| [Previous Challenge](/Challenges/Investigate/1/README.md#top) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/3/README.md#top) |
+| [Previous Challenge](/Challenges/Investigate/1/README.md#question) | [Return to Challenges](/Challenges/../../../#modules) | [Next Challenge](/Challenges/Investigate/3/README.md#question) |
 | :------- | :-----: | ------: |
